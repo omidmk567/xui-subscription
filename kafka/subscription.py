@@ -90,4 +90,4 @@ def extract_info_from_users(all_users: dict):
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", debug=True, port=5150)
+    app.run(host="0.0.0.0", debug=True, port=5500)
